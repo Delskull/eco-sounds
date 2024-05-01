@@ -1,1 +1,1 @@
-https://rolling-scopes-school.github.io/delskull-JSFEPRESCHOOL2024Q2/eco-sounds/
+https://delskull.github.io/eco-sounds/index.html
